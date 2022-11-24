@@ -1,2 +1,2 @@
-# jmedina-myapi-books
-Código de aplicación MyAPI Books.
+# myAPI
+myAPI is the proyect used in bedu DevOps Fundamentals course
